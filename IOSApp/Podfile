@@ -10,8 +10,8 @@ target 'IOSApp' do
   # use_frameworks!
   # Pods for IOSApp
   xcodeproj './IOSApp.xcodeproj'
-  pod 'TTKeyBoard', '~> 1.0.0'
-  pod 'TTPageView', '~> 0.0.2'
+  pod 'TTKeyBoard'
+  pod 'TTPageView'
   pod 'UITableView+FDTemplateLayoutCell'
   pod 'AFNetworking'
   pod 'MJRefresh'
